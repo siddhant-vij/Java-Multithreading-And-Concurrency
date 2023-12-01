@@ -1,4 +1,4 @@
-package com.multithreadingconcurrency.p01ThreadsBasics.PoliceHackerThreads;
+package com.multithreadingconcurrency.p01ThreadCreation.PoliceHackerThreads;
 
 public class PasswordVault {
   private int password;

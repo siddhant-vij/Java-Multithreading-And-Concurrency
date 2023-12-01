@@ -1,4 +1,4 @@
-package com.multithreadingconcurrency.p01ThreadsBasics.PoliceHackerThreads;
+package com.multithreadingconcurrency.p01ThreadCreation.PoliceHackerThreads;
 
 public abstract class Hacker extends Thread {
   protected PasswordVault passwordVault;

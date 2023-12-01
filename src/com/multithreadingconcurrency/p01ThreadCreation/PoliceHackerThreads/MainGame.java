@@ -1,4 +1,4 @@
-package com.multithreadingconcurrency.p01ThreadsBasics.PoliceHackerThreads;
+package com.multithreadingconcurrency.p01ThreadCreation.PoliceHackerThreads;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.multithreadingconcurrency.p01ThreadsBasics.MultiExecutor;
+package com.multithreadingconcurrency.p01ThreadCreation.MultiExecutor;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,19 +1,19 @@
-package com.multithreadingconcurrency.p01ThreadsBasics.PoliceHackerThreads;
+package com.multithreadingconcurrency.p01ThreadCreation.PoliceHackerThreads;
 
-public class AscendingHacker extends Hacker {
-  public AscendingHacker(PasswordVault passwordVault) {
+public class DescendingHacker extends Hacker {
+  public DescendingHacker(PasswordVault passwordVault) {
     super(passwordVault);
   }
 
   @Override
   public void run() {
-    int password = 0;
-    while (password < MAX_GUESSES) {
+    int password = MAX_GUESSES;
+    while (password >= 0) {
       if (passwordVault.isCorrectPassword(password)) {
         System.out.println(this.getClass().getSimpleName() + " found password: " + password);
         System.exit(0);
       }
-      password++;
+      password--;
     }
   }
 }
