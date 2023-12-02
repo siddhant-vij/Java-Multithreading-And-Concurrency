@@ -1,4 +1,4 @@
-package com.multithreadingconcurrency.p05InterThreadComms.CyclicBarrier;
+package com.multithreadingconcurrency.p05Synchronizers.CyclicBarrier;
 
 /*
  * Practical Example: Parallel Computation

@@ -1,4 +1,4 @@
-package com.multithreadingconcurrency.p05InterThreadComms.CountDownLatch;
+package com.multithreadingconcurrency.p05Synchronizers.CountDownLatch;
 
 /*
  * Practical Example: Service Initialization

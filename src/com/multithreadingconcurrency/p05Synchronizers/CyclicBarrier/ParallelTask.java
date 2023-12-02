@@ -1,4 +1,4 @@
-package com.multithreadingconcurrency.p05InterThreadComms.CyclicBarrier;
+package com.multithreadingconcurrency.p05Synchronizers.CyclicBarrier;
 
 import java.util.concurrent.CyclicBarrier;
 

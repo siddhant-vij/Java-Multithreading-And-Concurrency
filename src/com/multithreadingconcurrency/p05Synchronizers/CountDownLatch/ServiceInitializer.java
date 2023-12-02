@@ -1,4 +1,4 @@
-package com.multithreadingconcurrency.p05InterThreadComms.CountDownLatch;
+package com.multithreadingconcurrency.p05Synchronizers.CountDownLatch;
 
 import java.util.concurrent.CountDownLatch;
 

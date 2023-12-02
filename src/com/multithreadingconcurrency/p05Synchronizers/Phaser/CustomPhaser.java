@@ -1,4 +1,4 @@
-package com.multithreadingconcurrency.p05InterThreadComms.Phaser;
+package com.multithreadingconcurrency.p05Synchronizers.Phaser;
 
 import java.util.concurrent.Phaser;
 

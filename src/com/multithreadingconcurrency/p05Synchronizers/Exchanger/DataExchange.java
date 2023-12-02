@@ -1,4 +1,4 @@
-package com.multithreadingconcurrency.p05InterThreadComms.Exchanger;
+package com.multithreadingconcurrency.p05Synchronizers.Exchanger;
 
 import java.util.concurrent.Exchanger;
 
